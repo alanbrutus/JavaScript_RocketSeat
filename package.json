@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Treinamento em Javascript RocketSeat",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "babel ./main.js -o ./bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanbrutus/JavaScript_RocketSeat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanbrutus/JavaScript_RocketSeat/issues"
+  },
+  "homepage": "https://github.com/alanbrutus/JavaScript_RocketSeat#readme"
+}
